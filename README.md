@@ -48,7 +48,8 @@ This project taught me the fundamentals of HTML, CSS, and the importance of a st
 ## 📄 Project Documentation
 
 For a detailed explanation of the methodology, design process, and implementation, please refer to the full project report:
-* [View Donutopia Project Report (PDF)](docs/Donutopia-Report-CIS1203.pdf)
+* [View Donutopia Project Report (PDF)](Donutopia-Report-CIS1203.docs/Donutopia-Report-CIS1203.pdf)
+
 
 ---
 
