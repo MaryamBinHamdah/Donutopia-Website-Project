@@ -45,6 +45,13 @@ This project taught me the fundamentals of HTML, CSS, and the importance of a st
 
 ---
 
+## 📄 Project Documentation
+
+For a detailed explanation of the methodology, design process, and implementation, please refer to the full project report:
+* [View Donutopia Project Report (PDF)](docs/Donutopia-Report-CIS1203.pdf)
+
+---
+
 ## 🖼️ Live Demo & Screenshots
 
 You can view a live demo of the website here: **[Donutopia Live Demo](https://heskal.github.io/Donutopia-Website-Project/ )**
