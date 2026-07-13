@@ -36,9 +36,10 @@ Before writing a single line of code, our team conducted a thorough planning pha
 ## 💡 My Role & Key Learnings
 
 This project was a fantastic hands-on experience. My main responsibilities included:
-*   **Analyzing a major competitor** (Dunkin' Donuts) to gather insights.
-*   **Building the Home Page** which served as the main user interface.
-*   **Developing the Login Page** with a focus on HTML forms.
+*   **Analyzing a major competitor** (Krispy Kreme) to gather insights.
+*   **Menu Page:** Designed and built a responsive menu layout using HTML and CSS to display products and prices clearly.
+*   **Contact Us Page:** Developed a fully styled, user-friendly HTML form to handle customer inquiries.
+*   **Design Consistency:** Ensured both pages matched the overall "Donutopia" brand identity and color scheme.
 
 This project taught me the fundamentals of HTML, CSS, and the importance of a structured, collaborative development process from concept to deployment.
 
@@ -48,12 +49,15 @@ This project taught me the fundamentals of HTML, CSS, and the importance of a st
 
 You can view a live demo of the website here: **[https://heskal.github.io/Donutopia-Website-Project/]**
 
-**Home Page**
+**Menu Page**
 
 
-![Screenshot of the Home Page](https://github.com/HesKal/Donutopia-Website-Project/blob/main/homepage.png)
+![Screenshot of the Menu Page](<img width="338" height="332" alt="image" src="https://github.com/user-attachments/assets/c69b2603-745a-4d02-8c3c-361d188e4b3a" />
+)
 
-**Login Page**
+
+**Contact Us Page**
 
 
-![Screenshot of the Menu Page](https://github.com/HesKal/Donutopia-Website-Project/blob/main/LoginPage.png)
+![Screenshot of the Contact Us Page](<img width="365" height="338" alt="image" src="https://github.com/user-attachments/assets/043f66f7-a53a-477f-96e7-ad6c10a82a09" />
+)
